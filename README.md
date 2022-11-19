@@ -18,4 +18,4 @@ LEVEL 2 RETURNING EARTH: Look for shelter and food.
 LEVEL 3 TOXICATION: Radioactive storm is coming (Radioactive apocalypse), run to the mountains
 LEVEL 4 AGRESSIF APES: They kill 7 of your people.
 
-FREE GAMEPLAY
+FREE GAMEPLAY, BUILD ROCKETS, SPACESTATIONS... SURVIVE!

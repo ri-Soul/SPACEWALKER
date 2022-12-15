@@ -18,5 +18,5 @@
 - **LEVEL 5 AGRESSIF APES:** They kill 7 of your people.  
   
 ## SEASON 3: SANDBOX 2140:
-*Only 11 SURVIVERS.*
+*Only 11 survivers.*
 - **FREE GAMEPLAY:** BUILD BUNKERS, WEAPONS, ROCKETS, SPACESTATIONS... SURVIVE!  

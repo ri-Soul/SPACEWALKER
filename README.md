@@ -15,7 +15,7 @@
 - **LEVEL 2 RETURNING EARTH:** Look for shelter and food.  
 - **LEVEL 3 TOXICATION:** Radioactive storm is coming (Radioactive apocalypse), run to the mountains.
 - **LEVEL 4 ICE AGE:** Survive from the low temperature (-18°C).  
-- **LEVEL 5 AGRESSIF APES:** They kill 7 of your people.  
+- **LEVEL 5 AGRESSIVE APES:** They kill 7 of your people.  
   
 ## SEASON 3: SANDBOX 2140:
 *Only 11 survivers.*

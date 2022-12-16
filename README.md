@@ -1,7 +1,7 @@
 # SPACEWALKER  
 **KEYWORDS: 3D FPS / SURVIVAL / SANDBOX / SPACE / PHYSICS / SCIENCE**  
 *The game is about that you have to survive from your own kind that destroyed the earth.*  
-
+![SPACEWALKER!](SPACEWALKER.png)  
 ## SEASON 1: WAR BETWEEN HUMANS 2101:  
 - ***INTRO:** From the industrial Revolution we started to burn fossil fuels and kill more trees and more animals. Thats why there is global warming and to much carbon dioxide.  There is a shortage of food and oxygen, so the only solution is less people, only then a few(1/40 000) will survive. We started to be more a plague than a kind.  We started a war because nobody wanted to die and everyone fighted against each other, the earth became a chaos. The Soviet Union was able to get back together.*  
 - **LEVEL 1 REVOLT:** Citizen are coming to the capitol and are fighting soldiers with molotov and guns (everyone gets killed).  
